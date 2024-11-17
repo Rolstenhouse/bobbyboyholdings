@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bobbyboyholdings/static/css/main.69c26e6a.css",
+    "main.js": "/bobbyboyholdings/static/js/main.668e6c46.js",
+    "index.html": "/bobbyboyholdings/index.html",
+    "main.69c26e6a.css.map": "/bobbyboyholdings/static/css/main.69c26e6a.css.map",
+    "main.668e6c46.js.map": "/bobbyboyholdings/static/js/main.668e6c46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c26e6a.css",
+    "static/js/main.668e6c46.js"
+  ]
+}
