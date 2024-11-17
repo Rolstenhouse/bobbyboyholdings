@@ -2,7 +2,7 @@
   "name": "bobby-boy-holdings",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rolsthoorn.github.io/bobbyboyholdings",
+  "homepage": "https://bobbyboyholdings.com",
   "dependencies": {
     "@types/node": "16.18.68",
     "@types/react": "18.2.45",
