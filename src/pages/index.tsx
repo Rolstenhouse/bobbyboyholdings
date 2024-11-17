@@ -54,7 +54,7 @@ const LandingPage: React.FC = () => {
             </div>
             <div className="flex flex-col md:flex-row md:items-center space-y-4 md:space-y-0 md:space-x-8">
               <a 
-                href="https://github.com/rolsthoorn"
+                href="https://github.com/rolstenhouse"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -62,7 +62,7 @@ const LandingPage: React.FC = () => {
                 GitHub
               </a>
               <a 
-                href="https://linkedin.com/in/rolsthoorn"
+                href="https://linkedin.com/in/rolstenhouse"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
